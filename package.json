@@ -1,0 +1,25 @@
+{
+  "name": "tpejb",
+  "version": "1.0.0",
+  "description": "Application TODO",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinBTSsio/toDo.git"
+  },
+  "author": "Zeref",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinBTSsio/toDo/issues"
+  },
+  "homepage": "https://github.com/KevinBTSsio/toDo#readme",
+  "dependencies": {
+    "npm": "^6.13.7"
+  },
+  "devDependencies": {
+    "should": "^13.2.3"
+  }
+}
