@@ -1,0 +1,12 @@
+{
+	"build" : {
+		"type" : "maven",
+		"goal" : "package"
+	},
+	"deploy" : {
+		"container" : "WILDFLY9",
+		"war" : [{
+			"file" : "../tpejb.war"
+		}]
+	}
+}
